@@ -1,0 +1,9 @@
+23:41:20 **** Incremental Build of configuration Debug for project project1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\project1.o" "..\\src\\project1.c" 
+gcc -o project1.exe "src\\project1.o" 
+Info: Nothing to build for project1
+11:56:55 **** Incremental Build of configuration Debug for project project1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\project1.o" "..\\src\\project1.c" 
+gcc -o project1.exe "src\\project1.o" 
